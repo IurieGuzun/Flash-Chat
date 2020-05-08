@@ -10,7 +10,7 @@
       static let cellIdentifier = "ReusableCell"
       static let cellNibName = "MessageCell"
       static let registerSegue = "RegisterToChat"
-      static let loginSegue = "LoginToChat"
+      static let loginSegue = "LogInToChat"
       
       struct BrandColors {
           static let purple = "BrandPurple"
